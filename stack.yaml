@@ -1,0 +1,7 @@
+resolver: lts-12.20
+
+packages:
+- .
+
+extra-deps:
+- streaming-commons-0.1.19

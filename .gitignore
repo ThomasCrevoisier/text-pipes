@@ -8,4 +8,4 @@ cabal-dev
 *.py
 *.sh
 .virthualenv
-
+.stack-work/
